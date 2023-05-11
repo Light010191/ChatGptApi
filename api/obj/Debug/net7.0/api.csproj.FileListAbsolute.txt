@@ -1,0 +1,15 @@
+E:\проэкты\С#\,04,2023\api\api\bin\Debug\net7.0\api.exe
+E:\проэкты\С#\,04,2023\api\api\bin\Debug\net7.0\api.deps.json
+E:\проэкты\С#\,04,2023\api\api\bin\Debug\net7.0\api.runtimeconfig.json
+E:\проэкты\С#\,04,2023\api\api\bin\Debug\net7.0\api.dll
+E:\проэкты\С#\,04,2023\api\api\bin\Debug\net7.0\api.pdb
+E:\проэкты\С#\,04,2023\api\api\obj\Debug\net7.0\api.csproj.AssemblyReference.cache
+E:\проэкты\С#\,04,2023\api\api\obj\Debug\net7.0\api.GeneratedMSBuildEditorConfig.editorconfig
+E:\проэкты\С#\,04,2023\api\api\obj\Debug\net7.0\api.AssemblyInfoInputs.cache
+E:\проэкты\С#\,04,2023\api\api\obj\Debug\net7.0\api.AssemblyInfo.cs
+E:\проэкты\С#\,04,2023\api\api\obj\Debug\net7.0\api.csproj.CoreCompileInputs.cache
+E:\проэкты\С#\,04,2023\api\api\obj\Debug\net7.0\api.dll
+E:\проэкты\С#\,04,2023\api\api\obj\Debug\net7.0\refint\api.dll
+E:\проэкты\С#\,04,2023\api\api\obj\Debug\net7.0\api.pdb
+E:\проэкты\С#\,04,2023\api\api\obj\Debug\net7.0\api.genruntimeconfig.cache
+E:\проэкты\С#\,04,2023\api\api\obj\Debug\net7.0\ref\api.dll
