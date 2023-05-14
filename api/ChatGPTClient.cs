@@ -40,6 +40,10 @@ namespace api
             var chatCompletionUri = "https://api.pawan.krd/v1/chat/completions";   
             
             HttpResponseMessage response = await _httpClient.PostAsJsonAsync(chatCompletionUri, chatGptSend, CancellationToken.None);
+            if (!response.IsSuccessStatusCode)
+            {               
+                return response.StatusCode.ToString();
+            }
             ChatGPTResponse? chatGptResponse = await response.Content.ReadFromJsonAsync<ChatGPTResponse>();
             return chatGptResponse.Choices[0].Message.Content.ToString();
         }

@@ -6,7 +6,7 @@ using System.Text.Json;
 
 
 var openAiKey =Environment.GetEnvironmentVariable("OpenAI_token");
-string userMassage="";
+string userMassage="" ;
 Console.WriteLine("Введите Ваш Вопрос или нажмите 0 для выхода : ");
 while (true)
 {
